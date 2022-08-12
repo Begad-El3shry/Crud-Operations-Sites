@@ -1,0 +1,26 @@
+.header{
+    color: darkgray;
+}
+.supmitSites{
+    background-color:  rgb(228, 224, 224);
+   height: 400px;
+}
+.supmitSites input{
+    width: 80%;
+    margin: auto;
+    border-radius: 5px;
+    border-width: 1px;
+    border-style: solid;
+}
+.supmitSites button{
+    margin: auto;
+    width: 80px;
+}
+.displayData{
+    border-radius: 10px;
+    margin: auto;
+}
+.site{
+    background-color:  rgb(228, 224, 224);
+    padding: 30px;
+}
